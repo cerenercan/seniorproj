@@ -14,8 +14,4 @@ public class General {
     Location location;
     Current current;
 
-
-
-
-
 }
